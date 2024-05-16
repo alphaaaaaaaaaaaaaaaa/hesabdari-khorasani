@@ -1,0 +1,455 @@
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.App\obj\Debug\Accounting.App.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\obj\Debug\Accounting.App.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\bin\Debug\EntityFramework.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\EntityFramework.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.frmAddOrEditCustomer.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_11\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_11\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_11\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_11\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_11\Accounting\Accounting.App\bin\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_11\Accounting\Accounting.App\bin\Debug\EntityFramework.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_11\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_11\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_11\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_11\Accounting\Accounting.App\bin\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_11\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_11\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_11\Accounting\Accounting.App\obj\Debug\Accounting.App.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_11\Accounting\Accounting.App\obj\Debug\Accounting.App.frmAddOrEditCustomer.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_11\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_11\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_11\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_11\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_11\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_11\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_11\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_11\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.App\bin\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.App\bin\Debug\EntityFramework.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.App\bin\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.App\obj\Debug\Accounting.App.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.App\obj\Debug\Accounting.App.frmAddOrEditCustomer.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\bin\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\bin\Debug\EntityFramework.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\bin\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\obj\Debug\Accounting.App.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\obj\Debug\Accounting.App.frmAddOrEditCustomer.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\obj\Debug\Accounting.App.frmNewAccounting.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\bin\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\bin\Debug\EntityFramework.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\bin\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\obj\Debug\Accounting.App.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\obj\Debug\Accounting.App.frmAddOrEditCustomer.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\obj\Debug\Accounting.App.frmNewAccounting.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_15\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\bin\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\bin\Debug\EntityFramework.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\bin\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\obj\Debug\Accounting.App.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\obj\Debug\Accounting.App.frmReport.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\obj\Debug\Accounting.App.frmAddOrEditCustomer.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\obj\Debug\Accounting.App.frmNewAccounting.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\bin\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\bin\Debug\EntityFramework.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\bin\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\obj\Debug\Accounting.App.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\obj\Debug\Accounting.App.frmReport.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\obj\Debug\Accounting.App.frmAddOrEditCustomer.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\obj\Debug\Accounting.App.frmNewAccounting.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\obj\Debug\Accounting.App.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\obj\Debug\Accounting.App.frmReport.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\obj\Debug\Accounting.App.frmAddOrEditCustomer.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\obj\Debug\Accounting.App.frmNewAccounting.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\bin\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\bin\Debug\EntityFramework.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\bin\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\bin\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\bin\Debug\EntityFramework.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\bin\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\obj\Debug\Accounting.App.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\obj\Debug\Accounting.App.frmReport.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\obj\Debug\Accounting.App.frmAddOrEditCustomer.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\obj\Debug\Accounting.App.frmNewAccounting.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.App\obj\Debug\Accounting.App.frmLogin.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\bin\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\bin\Debug\EntityFramework.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\bin\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\obj\Debug\Accounting.App.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\obj\Debug\Accounting.App.frmReport.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\obj\Debug\Accounting.App.frmAddOrEditCustomer.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\obj\Debug\Accounting.App.frmNewAccounting.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\obj\Debug\Accounting.App.frmLogin.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.Win.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.Win.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_20\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\EntityFramework.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.Win.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.Win.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.Win.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.Win.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.frmReport.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.frmAddOrEditCustomer.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.frmNewAccounting.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.frmLogin.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.Business.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.Business.pdb
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.Business.dll
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.utility.dll
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.dll
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.Business.pdb
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.utility.pdb
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.xml
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.xml
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.AssemblyReference.cache
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.frmReport.resources
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.frmAddOrEditCustomer.resources
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.frmNewAccounting.resources
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.frmLogin.resources
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.Business.dll
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.utility.dll
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.dll
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.Business.pdb
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.utility.pdb
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.xml
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.xml
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.AssemblyReference.cache
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.frmReport.resources
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.frmAddOrEditCustomer.resources
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.frmNewAccounting.resources
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.frmLogin.resources
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.AssemblyReference.cache
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.frmReport.resources
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.frmAddOrEditCustomer.resources
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.frmNewAccounting.resources
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.frmLogin.resources
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Accounting.Business.dll
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Accounting.utility.dll
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.dll
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.dll
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Accounting.Business.pdb
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Accounting.utility.pdb
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.pdb
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.xml
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.Win.xml
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.xml
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.Win.xml
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.xml
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Accounting.Business.dll
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Accounting.utility.dll
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.dll
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.dll
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Accounting.Business.pdb
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Accounting.utility.pdb
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.pdb
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.xml
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.Win.xml
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.xml
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.Win.xml
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.xml
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.csprojAssemblyReference.cache
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.frmReport.resources
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.frmAddOrEditCustomer.resources
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.frmNewAccounting.resources
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.frmLogin.resources
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb

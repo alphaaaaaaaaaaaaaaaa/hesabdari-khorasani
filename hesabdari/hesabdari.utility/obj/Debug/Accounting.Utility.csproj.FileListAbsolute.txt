@@ -1,0 +1,60 @@
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.utility\bin\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.utility\bin\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.utility\obj\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.utility\obj\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.utility\bin\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.utility\bin\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.utility\obj\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.utility\obj\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.utility\bin\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.utility\bin\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.utility\obj\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.utility\obj\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.utility\bin\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.utility\bin\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.utility\obj\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.utility\obj\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.utility\bin\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.utility\bin\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.utility\obj\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_16\Accounting\Accounting.utility\obj\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.utility\bin\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.utility\bin\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.utility\obj\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_18\Accounting\Accounting.utility\obj\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.utility\bin\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.utility\bin\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.utility\obj\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.utility\obj\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.utility\bin\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.utility\bin\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.utility\obj\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.utility\obj\Debug\Accounting.utility.pdb
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.utility\bin\Debug\Accounting.utility.dll
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.utility\bin\Debug\Accounting.utility.pdb
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.utility\obj\Debug\Accounting.utility.dll
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.utility\obj\Debug\Accounting.utility.pdb
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.utility\bin\Debug\Accounting.utility.dll
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.utility\bin\Debug\Accounting.utility.pdb
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csprojAssemblyReference.cache
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.utility\obj\Debug\Accounting.utility.dll
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.utility\obj\Debug\Accounting.utility.pdb

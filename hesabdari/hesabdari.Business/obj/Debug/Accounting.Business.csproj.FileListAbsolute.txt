@@ -1,0 +1,102 @@
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_19\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\EntityFramework.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\EntityFramework.SqlServer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\EntityFramework.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\EntityFramework.SqlServer.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CopyComplete
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.dll
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\EntityFramework.xml
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.AssemblyReference.cache
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CopyComplete
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+C:\Users\pc1\Downloads\Compressed\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.dll
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\EntityFramework.xml
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.AssemblyReference.cache
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CopyComplete
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+C:\Users\pc1\Desktop\آموزش-سی-شارپ-پیشرفته\TopLearn.Com_CsharpAdvanced_22.rar\TopLearn.Com_CsharpAdvanced_22\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.dll
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.pdb
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll.config
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.pdb
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\bin\Debug\EntityFramework.xml
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\bin\Debug\EntityFramework.SqlServer.xml
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.AssemblyReference.cache
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CopyComplete
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+G:\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.dll
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.pdb
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll.config
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.pdb
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\bin\Debug\EntityFramework.xml
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\bin\Debug\EntityFramework.SqlServer.xml
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csprojAssemblyReference.cache
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CopyComplete
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+E:\pppppppppppppppppppppppppppppppppppppppp\پروژه ی آقای انصاری\حسابداری\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
